@@ -1,0 +1,39 @@
+﻿<h1>Employers Currently Hiring</h1>
+
+
+<p><a asp-controller="Employer" asp-action="Add">Add an Employer</a></p>
+
+
+@if (0 == 0)
+
+{
+
+    <p>No employers are currently hiring!</p>
+
+}
+
+else
+
+{
+
+    <div>
+
+        <ul>
+
+            @foreach ()
+
+            {
+
+                <li>
+
+                    <a asp-controller="Employer" asp-action="About" asp-route-id="1"></a>
+
+                </li>
+
+            }
+
+        </ul>
+
+    </div>
+
+}
