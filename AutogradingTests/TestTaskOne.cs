@@ -8,7 +8,7 @@ using TechJobsPersistentAutograded;
 using Xunit;
 
 
-namespace AutogradingTests
+namespace TaskOne.Tests
 {
     public class TaskOne
     {

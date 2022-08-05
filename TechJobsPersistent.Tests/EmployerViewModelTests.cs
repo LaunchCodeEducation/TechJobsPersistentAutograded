@@ -5,7 +5,7 @@ using System.Reflection;
 using TechJobsPersistentAutograded.ViewModels;
 using Xunit;
 
-namespace TechJobsPersistentAutograded.Tests
+namespace TaskTwo.Tests
 {
     public class EmployerViewModelTests
     {

@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using Moq;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AutogradingTests
+namespace TaskThree.Tests
 {
     public class TestTaskThree
     {

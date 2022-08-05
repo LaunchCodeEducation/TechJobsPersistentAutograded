@@ -6,7 +6,7 @@ using TechJobsPersistentAutograded.Controllers;
 using TechJobsPersistentAutograded.ViewModels;
 using Xunit;
 
-namespace TechJobsPersistentAutograded.Tests
+namespace TaskTwo.Tests
 {
     public class AddJobViewModelTests
     {
@@ -35,8 +35,6 @@ namespace TechJobsPersistentAutograded.Tests
             }
 
             Assert.Equal(2, cInfo.Length);
-            // one should take a list of employers and a list of skills
-            // other should be empty
             
         }
 

@@ -34,13 +34,10 @@ namespace TechJobsPersistentAutograded
         public void ConfigureServices(IServiceCollection services)
 
         {
-
             services.AddControllersWithViews();
             services.AddScoped<JobRepository>();
             services.AddScoped<JobDbContext>();
             services.AddDbContext<JobDbContext>(options => options.UseMySql(Configuration.GetConnectionString()));
-            //services.AddScoped<IJobRepository, JobRepository>();  //added
-
         }
 
 
