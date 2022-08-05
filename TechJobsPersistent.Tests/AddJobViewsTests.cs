@@ -7,7 +7,7 @@ using TechJobsPersistentAutograded.Models;
 using TechJobsPersistentAutograded.ViewModels;
 using Xunit;
 
-namespace TechJobsPersistentAutograded.Tests
+namespace TaskTwo.Tests
 {
     public class AddJobViewsTests
     {

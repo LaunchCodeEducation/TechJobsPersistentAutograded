@@ -10,11 +10,11 @@ using Xunit;
 
 namespace AutogradingTests
 {
-    public class TaskOne
+    public class TaskOneTests
     {
         private readonly IConfiguration _configuration;
 
-        public TaskOne()
+        public TaskOneTests()
         {
             _configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())

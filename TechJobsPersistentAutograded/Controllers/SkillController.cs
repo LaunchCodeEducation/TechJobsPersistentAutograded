@@ -49,7 +49,6 @@ namespace TechJobsPersistentAutograded.Controllers
 
         public IActionResult AddJob(int id)
         {
-            // Job theJob = context.Jobs.Find(id);
             Job theJob = _repo.FindJobById(id);
             IEnumerable<Skill> possibleSkills = _repo.GetAllSkills();
             AddJobSkillViewModel viewModel = new AddJobSkillViewModel(theJob, possibleSkills.ToList());

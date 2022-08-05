@@ -11,10 +11,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AutogradingTests
 {
-    public class TestTaskThree
+    public class TaskThreeTests
     {
 
-        public TestTaskThree()
+        public TaskThreeTests()
         {
         }
 
