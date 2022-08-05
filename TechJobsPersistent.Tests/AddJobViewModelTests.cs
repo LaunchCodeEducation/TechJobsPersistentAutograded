@@ -35,8 +35,6 @@ namespace TaskTwo.Tests
             }
 
             Assert.Equal(2, cInfo.Length);
-            // one should take a list of employers and a list of skills
-            // other should be empty
             
         }
 

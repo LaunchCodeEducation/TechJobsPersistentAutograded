@@ -8,13 +8,13 @@ using TechJobsPersistentAutograded;
 using Xunit;
 
 
-namespace AutogradingTests
+namespace TaskOne.Tests
 {
-    public class TaskOneTests
+    public class TaskOne
     {
         private readonly IConfiguration _configuration;
 
-        public TaskOneTests()
+        public TaskOne()
         {
             _configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
