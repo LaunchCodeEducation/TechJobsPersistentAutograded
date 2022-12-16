@@ -30,7 +30,8 @@ This test project verifies the following:
 
 ### Performance and Code Check:
 
-[Working Demo App](https://techjobs-persistent.launchcodetechnicaltraining.org/)
+Before you start programming, check out our [Working Demo App](https://techjobs-persistent.launchcodetechnicaltraining.org/).
+The app has to restart occasionally so if you experience any issues with it loading, please wait a few minutes before refreshing the page.
 
 Use the checks below to explore the working app.
 
@@ -46,4 +47,4 @@ Use the checks below to explore the working app.
 
 ## Submitting Your Work
 
-To submit your work please follow the [Submission Instructions](https://education.launchcode.org/csharp/assignments/hello-world.html#submitting-your-work)
+To submit your work please follow the [Submission Instructions](https://education.launchcode.org/csharp-web-development/assignments/hello-world.html#submitting-your-work)
