@@ -1,4 +1,4 @@
-# Java Graded Assignment #4 Rubric (TechJobs, Persistent Edition)
+# C# Graded Assignment #4 Rubric (TechJobs, Persistent Edition)
 
 For [this assignment](https://education.launchcode.org/csharp-web-development/assignments/tech-jobs-persistent.html) students are tested for their understanding of SQL database management and the mechanics of object relational mapping. Students will demonstrate their knowledge of these topics by making updates again to the TechJobs application.
 They will be asked to create the database connection, finish what has been started to persist several model classes, 
